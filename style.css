@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+a {
+  padding: 10px;
+  background-color: grey;
+  font-size: auto;
+}
